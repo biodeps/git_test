@@ -1,1 +1,3 @@
 Bon dia! Inici de l'arxiu a les 9:23
+
+Ara modifico aquest arxiu i faré el Commit 3: El commit 2 no era necessari però donava error la pujada.
