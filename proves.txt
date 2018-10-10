@@ -1,3 +1,5 @@
 Bon dia! Inici de l'arxiu a les 9:23
 
 Ara modifico aquest arxiu i faré el Commit 3: El commit 2 no era necessari però donava error la pujada.
+
+Línia de text escrita de manera paral·lela a la branch1, aixi que donarà conflicte fijo.
